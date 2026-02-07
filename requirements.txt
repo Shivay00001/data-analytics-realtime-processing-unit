@@ -1,6 +1,2 @@
-fastapi
-uvicorn
-numpy
-pandas
-scikit-learn
-torch
+numpy>=1.26.0
+pydantic>=2.5.0
