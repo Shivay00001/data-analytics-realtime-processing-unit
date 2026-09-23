@@ -1,6 +1,11 @@
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 import argparse
-from src.stream_source import generate_sensor_stream
-from src.processor import WindowProcessor
+from stream_source import generate_sensor_stream
+from processor import WindowProcessor
 
 def main():
     parser = argparse.ArgumentParser(description="Real-time Stream Processing Unit")
