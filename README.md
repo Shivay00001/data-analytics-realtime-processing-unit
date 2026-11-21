@@ -1,5 +1,7 @@
 # Data Analytics Realtime Processing Unit
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Real-time data analytics pipeline with Python streams, Docker, and CI/CD.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
